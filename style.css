@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #f0f0f4;
+}
+
+#div_principal {
+  font-size: 150%;
+  height: 80vh;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #759bff;
+}
+
+#botao_calcular {
+  display: none;
+}
+
+#calcular {
+  color: white;
+  background-color: #759bff;
+  padding: 15px;
+  border: 2px solid #4747ab;
+  border-radius: 15px;
+}
+
+#div_sec {
+  background-color: #f0f0f4;
+  text-align: center;
+}
+
